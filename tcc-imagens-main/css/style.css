@@ -1,0 +1,13 @@
+*{
+    margin: 0 0 0 0;
+}
+
+.container{
+    background-color: gray;
+    display: flexbox;
+}
+
+.tamanho{
+    width: 18rem;
+    height: 18rem;
+}
